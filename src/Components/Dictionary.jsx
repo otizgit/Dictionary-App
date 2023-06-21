@@ -13,6 +13,8 @@ export default function Dictionary(props) {
           setWord(data);
         } else if (data.length > 1) {
           setWord([data[0]]);
+        } else {
+          alert(data.message)
         }
       })
       .catch(() => {
