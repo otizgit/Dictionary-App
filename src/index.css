@@ -209,6 +209,12 @@ audio {
 .audio:nth-child(4) {
   display: none;
 }
+.audio:nth-child(5) {
+  display: none;
+}
+.audio:nth-child(6) {
+  display: none;
+}
 .audio-controls {
   width: var(--clamp35);
   height: var(--clamp35);
