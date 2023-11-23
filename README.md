@@ -1,6 +1,5 @@
 # Dictionary-App
 In this project, I built a dictionary app that receives any word in the dictionary and displays the meaning of the word, the phonetics, the pronunciation, the synonyms and antonyms and lots more
-https://otizgit.github.io/Dictionary-App/
 
 ![Screenshot (564)](https://github.com/otizgit/Dictionary-App/assets/110433564/ea992030-e139-4f8f-bf41-4eee4ce559f3)
 ![Screenshot (565)](https://github.com/otizgit/Dictionary-App/assets/110433564/174c640a-c102-4559-92a9-3f4ea9183024)
